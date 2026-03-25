@@ -1,0 +1,5 @@
+com\klu\restapi\entity\Course.class
+com\klu\restapi\service\CourseService.class
+com\klu\restapi\controller\CourseController.class
+com\klu\restapi\repository\CourseRepository.class
+com\klu\restapi\RestApiApplication.class
