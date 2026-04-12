@@ -1,0 +1,5 @@
+com\fsad\skill14\repository\UserRepository.class
+com\fsad\skill14\service\UserService.class
+com\fsad\skill14\controller\UserController.class
+com\fsad\skill14\model\User.class
+com\fsad\skill14\Skill14Application.class
